@@ -1,0 +1,38 @@
+_repo: Some-Reptiles-and-Amphibians-from-Korea_34949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Byers, George William
+    alias: Byers, George W. (George William)
+    birthdate: 1923
+    gutenberg_agent_id: '37335'
+    url: http://www.gutenberg.org/2009/agents/37335
+  - agent_name: Jones, J. Knox
+    birthdate: 1929
+    deathdate: 1992
+    gutenberg_agent_id: '33991'
+    url: http://www.gutenberg.org/2009/agents/33991
+  - agent_name: Webb, Robert G.
+    gutenberg_agent_id: '35041'
+    url: http://www.gutenberg.org/2009/agents/35041
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amphibians -- Korea'
+- !lcsh 'Reptiles -- Korea'
+- !lcc 'QH'
+title: Some Reptiles and Amphibians from Korea
+url: http://www.gutenberg.org/ebooks/34949
